@@ -1,6 +1,11 @@
+# gaqqie: an open-source quantum computer cloud platform
+
+**This is a beta version.**
+
 ## What is **gaqqie**?
 
-[![License](https://img.shields.io/github/license/gaqqie/gaqqie.svg?style=flat)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/github/license/gaqqie/gaqqie-sky.svg?style=flat)](https://opensource.org/licenses/Apache-2.0)
+[![Releases](https://img.shields.io/github/release/gaqqie/gaqqie-sky.svg?style=flat)](https://github.com//gaqqie/gaqqie-sky/releases)
 
 **gaqqie** is an open-source quantum computer cloud platform. Quantum computer providers can easily build a cloud platform using **gaqqie**.  
 **gaqqie** is named for "**Ga**te-based **Q**uick **Q**uantum **I**nfrastructur**e**".
@@ -15,13 +20,11 @@ The main purposes of **gaqqie**
 
 ## **gaqqie** elements
 
-**This is a beta version.**
-
 | Build | Version |
 | ---   | ---     |
-| [**gaqqie-sky**](https://github.com/gaqqie/gaqqie-sky) | [![](https://img.shields.io/github/release/gaqqie/gaqqie-sky.svg?)](https://github.com//gaqqie/gaqqie-sky/releases) |
-| [**gaqqie-door**](https://github.com/gaqqie/gaqqie-door) | [![](https://img.shields.io/github/release/gaqqie/gaqqie-door.svg?)](https://github.com//gaqqie/gaqqie-door/releases) |
-| [**gaqqie-rainbow**](https://github.com/gaqqie/gaqqie-rainbow) | [![](https://img.shields.io/github/release/gaqqie/gaqqie-rainbow.svg?)](https://github.com//gaqqie/gaqqie-rainbow/releases) |
+| [**gaqqie-sky**](https://github.com/gaqqie/gaqqie-sky) | [![Releases](https://img.shields.io/github/release/gaqqie/gaqqie-sky.svg?style=flat)](https://github.com//gaqqie/gaqqie-sky/releases) |
+| [**gaqqie-door**](https://github.com/gaqqie/gaqqie-door) | [![Releases](https://img.shields.io/github/release/gaqqie/gaqqie-door.svg?style=flat)](https://github.com//gaqqie/gaqqie-door/releases) |
+| [**gaqqie-rainbow**](https://github.com/gaqqie/gaqqie-rainbow) | [![Releases](https://img.shields.io/github/release/gaqqie/gaqqie-rainbow.svg?style=flat)](https://github.com//gaqqie/gaqqie-rainbow/releases) |
 
 
 ## Architecture of **gaqqie**
