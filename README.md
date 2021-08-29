@@ -2,10 +2,11 @@
 
 **This is a beta version.**
 
-## What is **gaqqie**?
-
 [![License](https://img.shields.io/github/license/gaqqie/gaqqie-sky.svg?style=flat)](https://opensource.org/licenses/Apache-2.0)
 [![Releases](https://img.shields.io/github/release/gaqqie/gaqqie-sky.svg?style=flat)](https://github.com//gaqqie/gaqqie-sky/releases)
+
+
+## What is **gaqqie**?
 
 **gaqqie** is an open-source quantum computer cloud platform. Quantum computer providers can easily build a cloud platform using **gaqqie**.  
 **gaqqie** is named for "**Ga**te-based **Q**uick **Q**uantum **I**nfrastructur**e**".
