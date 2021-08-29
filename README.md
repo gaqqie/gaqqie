@@ -19,7 +19,7 @@ The main purposes of **gaqqie**
 - Free choice of combination of quantum programming language and quantum computer provider.
 
 
-## **gaqqie** elements
+## elements of **gaqqie**
 
 | Build | Version |
 | ---   | ---     |
