@@ -39,6 +39,9 @@ The main purposes of **gaqqie**
 The architecture of **gaqqie** is as follows:
 ![architecture](docs/images/architecture.png)
 
+## Documents
+
+the document for **gaqqie** is [here](docs/document.pdf) (in Japanese).
 
 ## Citing
 
